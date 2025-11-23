@@ -6,6 +6,8 @@ The application is built with a **React/Vite** frontend and a **Node.js/Express*
 
 
 ---
+<img width="1919" height="1079" alt="Screenshot 2025-11-23 124757" src="https://github.com/user-attachments/assets/8cebaeca-1761-4d04-a826-3c4c746d96e3" />
+<img width="1919" height="1071" alt="Screenshot 2025-11-23 124645" src="https://github.com/user-attachments/assets/3a7116ff-d5ba-4265-9eb0-355ea46802a6" />
 
 ## Core Features
 
