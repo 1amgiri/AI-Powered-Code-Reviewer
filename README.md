@@ -4,7 +4,6 @@ This project is an intelligent code review assistant that uses Google's Gemini A
 
 The application is built with a **React/Vite** frontend and a **Node.js/Express** backend.
 
-![AI Code Reviewer Screenshot](https://i.imgur.com/YOUR_SCREENSHOT_URL.png)
 
 ---
 
